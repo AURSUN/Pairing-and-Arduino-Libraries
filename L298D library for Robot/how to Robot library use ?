@@ -1,0 +1,22 @@
+Step 1 :-  
+     1. Buy L298d  ic
+     2. 2 resistors
+     3. 1 diode 1n4007
+     4. connector     
+     
+ step 2 :-
+  Read  circuit diagram in Hardware
+  
+  step 3 :-
+   Download pair software 
+      and  include file in editer  ------>  #include< pairbot.h >
+   
+   Step 4 :-
+   Read  in  folder (libraries/keywords ) for control the robot.
+   
+   step  5 :- 
+                            Enjoy ..... 
+     
+     
+     Developed by : Ajay soni 
+     Released under GPLV3  
